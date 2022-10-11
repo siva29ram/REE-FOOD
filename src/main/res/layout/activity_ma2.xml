@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MA2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="false"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="334dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="45dp"
+                android:layout_marginTop="10dp"
+                android:text="WELCOME TO FOOD WASTE MANAGEMENT"
+                android:textColor="@color/purple_700"
+                android:textSize="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.307"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="9dp"
+                android:text="Food waste management in India is becoming a critical problem due to the continuous increase of the Indian population. Indians waste the maximum amount of food as much as the whole of the UK consumes – a data point which will not be most indicative of our love of surfeit, because it is of our population. Most of the food is wasted in weddings, canteens, hotels, social and family functions, and households. Still, food wastage is a horrendous issue, so is food waste management in India. Our streets, garbage bins, and landfills are spoiling our environment and have sufficient evidence to prove it.
+
+How much food is wasted in India?
+
+In India, the larger the marriage, the larger the party, and also the additional stupendous the waste. No doubt weddings and banquets are an enormous supply of food wastage, however, restaurants and hotels conjointly contribute to food wastage, although the attention around this has grown full-grown within the last 5 years. Whereas some restaurants in India use food controllers to envision food spoilage, alternatives give it to their employees and other personnel, and smaller standalone restaurants, give it to orphanages. Few utilize non-perishable food.
+
+Food waste findings:
+
+On Average, 40% of food produced were being disposed of. This means that 7.5 tons of food are discarded daily.
+ Some 84.7% of the whole waste material recorded was thrown within the bin, whereas the remainder was either fed to the poor or some animals.
+A big portion of the waste material binned was still in edible condition.
+If the edible waste material generated is used, we tend to estimate that it might feed a minimum of 2000 individuals daily.
+Solely a pair of the ten shops surveyed were part waste aware, i.e., they separated the edible from the inedible, and ensured that food in condition reached empty stomachs. One among them disposed of their food at twelve noon, in order that it might be fed to the cows within the space. The other claimed to administer away all edible waste material to the native laborers and employees, for free, at the tip of the day.
+Overall, we tend to conclude that, across the town, an absence of consciousness around waste material is obvious. It is true that the difficulty of food waste management in India is far additional nonmoving within the actual handling, storage, and transport of food grains and vegetables before they even reach the consumer’s plate. However, the matter of waste material at the retail level cannot be unnoticed, particularly once 7.5 tons of food is wasted per day, that too solely.
+
+Wasting food has an economic impact:
+
+The better process will feed 11 percent of the world’s population, several Indians. Meeting the food desires of a growing population in India (1.7 billion by 2050) whereas reducing food loss and waste poses a significant challenge. Wasting a ton of wheat and rice would mean wasting 1,500 and 3,500 liters of water severally that goes into their production.
+
+Globally, virtually 250 cubic km of water and one.4 billion hectares of land are dedicated to manufacturing food that’s lost or wasted. According to the Food and Agriculture Organization (FAO), once a year around 17 billion tons, or one-third of food made for human consumption, are lost or wasted globally. The associated economic, environmental, and social prices of this loss at around $1 trillion, $700 billion, and $900 billion p.a. severally.
+
+In India, the worth of food wastage (harvest and post-harvest losses of major agricultural produce) is calculable at around INR 92,000 crore once a year at 2014 wholesale costs. Within the food price chain, twenty-four percent of worldwide food loss and waste happens at the production stage, twenty-four percent throughout handling and storage, and thirty-five percent at consumption.
+
+These 3 stages taken along account for over eighty percent of worldwide food loss and waste. Quantifying waste material on the worth chain by investing in the recently discharged international organization International Food Loss and Waste Protocol as a framework will facilitate India.
+
+Wasting food has environmental Impact:
+
+Food loss and waste are within the food and agriculture sector wherever diversifications to temperature change are necessary. Food loss and waste generate approximately eight percent of worldwide greenhouse gas emissions. A recent study predicts that emissions related to waste material may increase further. Hence, the message for World Food Day, discovered on Gregorian calendar month sixteen, was that “Climate is dynamical. Food and agriculture should too”.
+
+While food waste management in India is gaining momentum, it needs to get a move on to help tackle one of the globe’s most important issues that is climate change. Food wastage has irreversible environmental effects. Because food waste management is ne of the major source of global greenhouse gas emissions  Along with the wasted food we waste the water and energy it took to create it and produces ozone harming greenhouse gases — 7% of the world’s emissions— like methane, carbon dioxide, and chlorofluorocarbons, which contribute to Global warming. Food that rots in landfills produces nitrogen, which destroys soil nutrients and converts the lands into dead zones. Methane emitted from the decomposition of food waste hangs around the atmosphere for 20 years and traps most of the heat in the environment. This results in Climate Change.
+
+Solutions for food waste management in India
+
+For an efficient way of food waste management in India luckily, business owners involved in the food production and manufacturing sector, there are various viable solutions prepared at hand. Here are a number of the foremost common and handiest ways to scale back or manage waste matter levels in your business:
+
+Recycle by Composting: Food producers will solve 100% of their waste matter issues by merely organizing a good composting strategy. And doing therefore not solely eliminates waste, it saves you cash as a result of you don’t have to be compelled to “outsource” your compost production.
+
+Turn Wasted Food into Animal Feed: Cultivating compost is a method to recycle food, however it also can be drained of the bellies of cows, sheep, pigs, and alternative ethereal (themselves destined to become food).
+
+Use Waste Food to provide Products: From biofuels to liquid fertilizer, there are several helpful merchandises that may be factory-made from bound styles of waste foods, and infrequently “leftovers” of one company might be helpful in another business for the food scrap.
+
+Source Reduction and Food Donation: The easiest method to curtail waste matter is to easily turn out less whenever production is clearly resulting in waste. Once excess foodstuffs are still safe to eat, there will be hungry and poor people who realize it troublesome to afford decent food in today’s dear economy.
+
+Contribution of CHUGG for food waste management in India
+
+Food waste management system in India is now simple when CHUGG is installed in your entity!
+
+Food waste is a biodegradable waste matter that is discharged from food processing industries, households, and the hospitality sectors. Food waste contains fresh vegetables, fruits, meat, baked goods, dairy products, kitchen scrapes. This food waste when dumped in open landfills causes severe health and environmental issues. Decomposition of food waste in the absence of oxygen releases Methane which further leads to many environmental problems. Also, the decomposition of food waste on landfills hinders the recovery of nutrients in the soils. Therefore the appropriate method for food waste management can be done using CHUGG- an innovative food waste treatment system in India that uses food waste to generate Biogas and addressing food waste management in India. AVRIS Environment Technologies LLP has developed an affordable and compact bio-digester named CHUGG that magically converts your food waste, kitchen scraps, and garden wastes into Biogas and organic manure.
+
+ How does CHUGG work?
+
+Food waste in crushed form is fed into CHUGG – an innovative food waste treatment system in India. The food gets digested at the source in the absence of oxygen inside a chamber. The microorganisms breakdown the food waste matter to produce Biogas and organic manure. The resultant Biogas is then supplied to the cooktop through pipelines.
+
+CHUGG comes in two variants
+
+CHUGG 35- treats 35kgs of food waste per day.
+CHUGG 75- treats 75kgs of food waste per day.
+It is a very user-friendly food waste treatment system that is highly automated therefore your waste matter will be processed in just 15-30 minutes.
+
+Feed CHUGG everyday
+
+CHUGG feeds on all of your food, and kitchen scraps, garden trimmings, and rotten food as well that includes meat, onions, eggs, citrus fruits such as lemon. Make sure not to feed inorganic materials such as plastic, cardboard, paper, and bottles, etc. as these cannot breakdown and will clog the digester.
+
+Biogas from CHUGG
+
+The significant element of Biogas is Methane. It is one of the essential components in conventional gas utilized for cooking and heating. The amount of Biogas generated relies upon how rapidly the food waste breaks down and the size and amount of food you feed CHUGG. It likewise varies relying upon the kind of waste and the atmospheric temperature. The resultant Biogas contains 60% methane and 40% carbon dioxide that is like conventional gas. CHUGG can yield up to 4cum of Biogas per 75kgs of food waste which is comparable to 2kgs of LPG each day.
+
+Bio-slurry from CHUGG
+
+The residue that comes out after digestion is named ‘Digested Bio-Slurry’. It is liquid manure that is odorless and rich in nitrogen, phosphorous, and Potassium. The Bio-Slurry acquired from CHUGG relies upon the waste matter and the amount of water added to the food waste. Appropriate use of Bio-slurry on plants can upgrade the development of plants, and lessen weed development by half.
+
+Why CHUGG is a better solution for food waste management in India
+
+Food waste treated in an anaerobic digester has more potential in the form of biogas produced per ton of materials, and 15 times as much potential as manure from cattle. With the growing amount of population, an enormous amount of food goes uneaten annually. Installing CHUGG- an innovative food waste treatment system is an opportunity for businesses looking to do their part for the environment by reducing food waste in the landfill and creating renewable clean energy.
+
+The other benefits of CHUGG include.
+
+Climate change mitigation: Food waste in landfills decompose to produce Methane a potent greenhouse gas emission. Diverting food waste from landfills to CHUGG- food waste treatment system captures the methane emission, which can be used as an energy source. This results in reduced methane emission, thereby reducing greenhouse gas due to energy off-sets provided by using food waste as a renewable source of energy.
+
+Economic benefits: CHUGG-food waste treatment system is affordable and is expected to save costs that are incorporated in food waste disposal, LPG bills, and selling organic manure to farmers.
+
+Food waste diversion: Most of the municipalities, food product manufacturing businesses, schools, restaurants, and gated communities are investing in ways to divert food waste from landfills. CHUGG- food waste treatment system diverts a large amount of food waste going to landfills by recycling them at the source.
+
+The above information proves that conversion of food waste into energy using CHUGG-an an innovative food waste treatment system in terms of Methane is an economically viable and sustainable solution for Food waste management in India. It also complies with SWM 2016 rules.
+
+ So let’s divert food waste from landfills and eliminate the emission of methane considerably using CHUGG."
+                android:textSize="30dp" />
+
+            <ImageView
+                android:id="@+id/chip1"
+                android:layout_width="399dp"
+                android:layout_height="220dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.156"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.372"
+                app:srcCompat="@drawable/oo"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="60dp"
+                android:layout_marginBottom="50dp"
+                android:text="THANK YOU"
+                android:textSize="50dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

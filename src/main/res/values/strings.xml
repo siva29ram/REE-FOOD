@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">REE FOOD</string>
+    <string name="e_mail">E-Mail:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <string name="login_to_GAME_POINT">LOGIN TO GAME POINT</string>
+</resources>
